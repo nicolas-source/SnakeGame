@@ -1,0 +1,15 @@
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/bin/Debug/net7.0/SnakeGame
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/bin/Debug/net7.0/SnakeGame.deps.json
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/bin/Debug/net7.0/SnakeGame.runtimeconfig.json
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/bin/Debug/net7.0/SnakeGame.dll
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/bin/Debug/net7.0/SnakeGame.pdb
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.csproj.AssemblyReference.cache
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.AssemblyInfoInputs.cache
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.AssemblyInfo.cs
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.dll
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/refint/SnakeGame.dll
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.pdb
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/SnakeGame.genruntimeconfig.cache
+/Users/nicolas/Desktop/CSharp_Projects/SnakeGame/obj/Debug/net7.0/ref/SnakeGame.dll
