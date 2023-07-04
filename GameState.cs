@@ -120,6 +120,28 @@ namespace Snake
 
             return Grid[newHeadPosition.Row, newHeadPosition.Column];
         }
+
+        public void Move()
+        {
+            Position newHeadPosition = HeadPosition().Translate(direction);
+            GridValue hit = WillHit(newHeadPosition);
+
+            if (hit == GridValue.outside || hit == GridValue.snake)
+            {
+                GameOver = true;
+            }
+            else if (hit == GridValue.empty)
+            {
+                RemoveTail();
+                AddHead(newHeadPosition);
+            }
+            else if (hit == GridValue.food)
+            {
+                AddHead(newHeadPosition);
+                Score++;
+                AddFood();
+            }
+        }
     }
 
 }
